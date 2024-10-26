@@ -1,2 +1,1 @@
-# Project2Algo_DataStructures
-Phrase Frequency Analyzer
+Phrase Frequency Analyzer This c++ project uses heaps and deques to find the top 10 most common N(1-10) length phrases in both The Adventures of Tom Sawyer and Adventures of Huckleberry Finn (37-40 second runtime)
